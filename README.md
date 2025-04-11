@@ -64,7 +64,7 @@ This document outlines the AWS cloud architecture for a Learning Management Syst
 
 ### 6. Architecture Diagrams
 
-![ Higher lever Diagram](Diagram V1.png)
+![Higher lever Diagram](diagram.png)
 
 #### 6.1 High-Level System Architecture
 
